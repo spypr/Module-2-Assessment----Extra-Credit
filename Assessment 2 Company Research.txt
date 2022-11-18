@@ -1,0 +1,72 @@
+﻿1. Company: Yardi
+Technology Stack: G2 Stack; HTML5, jQuery, Google Analytics
+Why they chose this stack:
+Job Openings/Job Descriptions: Software Development Engineer I; Qualifications
+•
+Bachelor’s degree in Computer Science, Computer Engineering or relevant degree
+•
+Awesome written and verbal communication skills
+•
+Phenomenal time management skills and the ability to learn new concepts effectively
+•
+Excellent attention to detail and ability to follow processes
+•
+Flexibility, and the ability to manage changing priorities in a fast-paced deadline driven environment
+•
+Familiarity with Java, Java Script, C# or Angular
+•
+Experience with relationship databases - SQL Server, Oracle
+•
+Experience with accounting systems
+•
+Experience with web and mobile applications
+•
+Understanding of property management industry
+
+
+Engineering Blogs:https://www.yardi.com/blog/category/technology
+Additional Info:
+
+
+2. Company: Qualtrics
+Technology Stack: JavaScript, React, node.js, Golang, Java, Scala
+Why they chose this stack:
+Job Openings/Job Descriptions: Software Engineer Intern; Desired Experience
+• Currently studying for a degree in Computer Science or Computer Engineering
+• Available for a 12 week internship during summer of 2023
+• Experience with Web-related technologies including HTML/CSS and JavaScript
+• Experience with JavaScript frameworks including angular or node
+• Experience with modern programming languages (Java, PHP, Scala)
+• Database / Data Storage experience (SQL / MySQL)
+• Strong level of curiosity
+• Must be legally authorized to work in job location without Qualtrics sponsorship now or in the future
+Engineering Blogs: https://www.qualtrics.com/eng/
+Additional Info:
+
+
+
+
+3. Company: Meta
+Technology Stack: JavaScript, HTML, CSS, PHP, and ReactJS
+Why they chose this stack: to make web pages dynamic.  Previously pages were static with just HTML and CSS.
+Job Openings/Job Descriptions: Front End Engineer; Minimum Qualifications:
+• Requires a Bachelor's degree in Computer Science, Engineering, Information Systems, Analytics, Mathematics, Physics, Applied Sciences, or a related field and two years of work experience in the job offered or a computer-related occupation. Requires two years of experience in the following:
+• Building mobile and desktop web applications using JavaScript, including asynchronous programming, closures, types, and ES6
+• HTML or CSS including layout, specificity, cross browser compatibility, and accessibility
+• Browser APIs and optimizing front end performance of web-based applications
+• Front end development of mobile and desktop applications using React, Vue, or Angular
+• Debugging or benchmarking
+• Writing code for User Interface components
+• Building tools, linting and formatting of the codebase
+Industry: Internet
+Engineering Blogs: https://tech.fb.com/
+Additional Info:Front End Engineer Responsibilities:
+• Develop, design, create, modify, and/or test mobile and desktop web software applications or systems
+• Architect efficient and reusable front-end systems that drive complex web applications
+• Implement features and user interfaces to optimize performance of user-facing products
+• Collaborate with Product Designers, Product Managers, and Software Engineers to deliver compelling user-facing products
+• Identify and resolve performance and scalability issues
+• Work on problems of moderate scope where analysis of situations or data requires a review of a variety of factors
+• Exercise judgment within defined procedures and practices to determine appropriate action
+• Telecommute from anywhere in the U.S. permitted (remote work benefit)
+Minimum Qualifications:
